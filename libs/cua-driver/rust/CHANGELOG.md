@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.38.1](https://github.com/trycua/cua/compare/cua-driver-rs-v0.38.0...cua-driver-rs-v0.38.1) (2026-10-22)
+
+
+### Bug Fixes
+
+* **cua-driver:** guard Space-free background window enumeration ([#5712](https://github.com/trycua/cua/issues/5712)) ([2d5d5d6](https://github.com/trycua/cua/commit/2d5d5d64637d2d2f8f2561c8301403515df826c2))
+* **cua-driver:** keys for a popup an MPX click opened go through the master keyboard of the session that clicked ([#5652](https://github.com/trycua/cua/issues/5652)) ([d51eb65](https://github.com/trycua/cua/commit/d51eb65f3322ac9a731e587ae59cee604a547eb1))
+* **cua-driver:** the macOS WindowServer health check treats any app-bundle host as bundled ([#5680](https://github.com/trycua/cua/issues/5680)) ([88b4b63](https://github.com/trycua/cua/commit/88b4b63fdf36b611bbc00c287840e821b649c193))
+
 ## [0.38.0](https://github.com/trycua/cua/compare/cua-driver-rs-v0.37.0...cua-driver-rs-v0.38.0) (2026-10-20)
 
 
